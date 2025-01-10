@@ -1,0 +1,6 @@
+help;
+ShowUsing ();
+quit;
+Console.WriteLine("Hello!");
+clear
+quit
